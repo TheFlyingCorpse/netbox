@@ -313,7 +313,7 @@ class ConsolePortTypeChoices(ChoiceSet):
             (TYPE_RJ12, 'RJ-12'),
             (TYPE_RJ45, 'RJ-45'),
             (TYPE_MINI_DIN_8, 'Mini-DIN 8'),
-            (TYPE_ST, 'ST')
+            (TYPE_ST, 'ST'),
         )),
         ('USB', (
             (TYPE_USB_A, 'USB Type A'),
